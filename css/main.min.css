@@ -10789,6 +10789,7 @@ footer a:hover {
 .partner-logos a:hover {
     cursor: pointer;
     cursor: hand;
+    opacity: 0.8;
 }
 
 html * {
