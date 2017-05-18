@@ -1,6 +1,75 @@
 <?xml version="1.0" standalone="no"?>
 <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="3571px" height="1263px">
-  <style type="text/css"><![CDATA[	.style1{fill:#ECEFFF;stroke:#03689A;stroke-width:2;}	.style2{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def16);}	.style3{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def18);}	.style4{fill:#E6FF97;stroke:#62A716;stroke-width:2;}	.style5{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def22);}	.style6{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def24);}	.style7{fill:#FFFFCC;stroke:#A6A61D;stroke-width:2;}	.style8{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def28);}	.style9{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def30);}	.style10{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def32);}	.style11{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def34);}	.style12{fill:#FEFAEF;stroke:#969149;stroke-width:2;}	.style13{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def38);}	.style14{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def42);}	.style15{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def44);}	.style16{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def46);}	.style17{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def47);}	.style18{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def50);}	.style19{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def51);}	.style20{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def53);}	.style21{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def57);}	.style22{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def60);}	.style23{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def61);}	.style24{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def62);}	.style25{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def64);}	.style26{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def66);}	.style27{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def67);}	.style28{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def70);}	.style29{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def71);}	.style30{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def73);}	.style31{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def74);}	.style32{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def76);}	.style33{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def78);}	.style34{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def79);}	.style35{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def81);}	.style36{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def83);}	.style37{fill:#EEAAAA;stroke:#990000;stroke-width:3;}	.style38{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def87);}	.style39{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def88);}	.style40{fill:#FFFFFF;}	.style41{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def92);}	.style42{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def93);}	.style43{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def94);}	.style44{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def95);}	.style45{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def97);}	.style46{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def98);}	.style47{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def99);}	.style48{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def101);}	.style49{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def103);}	.style50{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def105);}	.style51{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def107);}	.style52{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def109);}	.style53{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def110);}	.style54{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def112);}	.style55{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def114);}	.style56{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def115);}	.style57{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def117);}	.style58{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def119);}	.style59{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def120);}	.style60{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def121);}	.style61{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def123);}	.style62{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def124);}	.style63{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def126);}	.style64{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def127);}	.style65{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def128);}	.style66{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def129);}	.style67{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def130);}	.style68{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def131);}	.style69{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def132);}]]></style>
+  <style type="text/css"><![CDATA[
+	.style1{fill:#ECEFFF;stroke:#03689A;stroke-width:2;}
+	.style2{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def16);}
+	.style3{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def18);}
+	.style4{fill:#E6FF97;stroke:#62A716;stroke-width:2;}
+	.style5{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def22);}
+	.style6{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def24);}
+	.style7{fill:#FFFFCC;stroke:#A6A61D;stroke-width:2;}
+	.style8{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def28);}
+	.style9{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def30);}
+	.style10{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def32);}
+	.style11{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def34);}
+	.style12{fill:#FEFAEF;stroke:#969149;stroke-width:2;}
+	.style13{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def38);}
+	.style14{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def42);}
+	.style15{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def44);}
+	.style16{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def46);}
+	.style17{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def47);}
+	.style18{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def50);}
+	.style19{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def51);}
+	.style20{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def53);}
+	.style21{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def57);}
+	.style22{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def60);}
+	.style23{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def61);}
+	.style24{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def62);}
+	.style25{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def64);}
+	.style26{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def66);}
+	.style27{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def67);}
+	.style28{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def70);}
+	.style29{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def71);}
+	.style30{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def73);}
+	.style31{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def74);}
+	.style32{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def76);}
+	.style33{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def78);}
+	.style34{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def79);}
+	.style35{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def81);}
+	.style36{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def83);}
+	.style37{fill:#EEAAAA;stroke:#990000;stroke-width:3;}
+	.style38{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def87);}
+	.style39{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def88);}
+	.style40{fill:#FFFFFF;}
+	.style41{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def92);}
+	.style42{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def93);}
+	.style43{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def94);}
+	.style44{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def95);}
+	.style45{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def97);}
+	.style46{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def98);}
+	.style47{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def99);}
+	.style48{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def101);}
+	.style49{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def103);}
+	.style50{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def105);}
+	.style51{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def107);}
+	.style52{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def109);}
+	.style53{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def110);}
+	.style54{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def112);}
+	.style55{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def114);}
+	.style56{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def115);}
+	.style57{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def117);}
+	.style58{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def119);}
+	.style59{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def120);}
+	.style60{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def121);}
+	.style61{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def123);}
+	.style62{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def124);}
+	.style63{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def126);}
+	.style64{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def127);}
+	.style65{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def128);}
+	.style66{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def129);}
+	.style67{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def130);}
+	.style68{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def131);}
+	.style69{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def132);}]]></style>
   <defs>
     <path id="69e25a8b-4085-4bfe-803e-76e4b6c63de8HeaderPath" fill-rule="evenodd" d="M 52,262 L 293,262 L 293,312 L 52,312 Z " />
     <clipPath id="ad2c32a3-4e7a-4943-a36c-057df1ac126dHeaderClipPath">
@@ -369,21 +438,25 @@
   </g>
   <use id="9f226235-7f50-480d-8b1d-1a89913ea364" xlink:href="#def15" class="style1" x="2757" y="117" />
   <g id="9f226235-7f50-480d-8b1d-1a89913ea364Container" transform="translate(2757,117)">
-    <text id="9f226235-7f50-480d-8b1d-1a89913ea364Text" class="style2">	<tspan x="29" y="20">Ontvangen documenten en </tspan><tspan x="40" y="39">finaliseren geboorteakte</tspan></text>
+    <text id="9f226235-7f50-480d-8b1d-1a89913ea364Text" class="style2">
+	<tspan x="29" y="20">Ontvangen documenten en </tspan><tspan x="40" y="39">finaliseren geboorteakte</tspan></text>
   </g>
   <use id="81504357-019e-4bb3-8a86-4adac3b25e6f" xlink:href="#def17" class="style1" x="265" y="301" />
   <g id="81504357-019e-4bb3-8a86-4adac3b25e6fContainer" transform="translate(265,301)">
-    <text id="81504357-019e-4bb3-8a86-4adac3b25e6fText" class="style3">	<tspan x="14" y="22">Afgeven ingevuld </tspan><tspan x="44" y="41">model I</tspan></text>
+    <text id="81504357-019e-4bb3-8a86-4adac3b25e6fText" class="style3">
+	<tspan x="14" y="22">Afgeven ingevuld </tspan><tspan x="44" y="41">model I</tspan></text>
   </g>
   <use id="9487c70e-71cb-4adc-b81c-fae5e58f7e48" xlink:href="#def19" class="style4" x="164" y="363" />
   <g id="9487c70e-71cb-4adc-b81c-fae5e58f7e48Container" transform="translate(164,363)" />
   <use id="e1048f5f-f932-4a61-9307-fdac06708315" xlink:href="#def21" class="style1" x="262" y="385" />
   <g id="e1048f5f-f932-4a61-9307-fdac06708315Container" transform="translate(262,385)">
-    <text id="e1048f5f-f932-4a61-9307-fdac06708315Text" class="style5">	<tspan x="17" y="14">Burgerlijke stand </tspan><tspan x="26" y="30">op de hoogte </tspan><tspan x="42" y="49">brengen</tspan></text>
+    <text id="e1048f5f-f932-4a61-9307-fdac06708315Text" class="style5">
+	<tspan x="17" y="14">Burgerlijke stand </tspan><tspan x="26" y="30">op de hoogte </tspan><tspan x="42" y="49">brengen</tspan></text>
   </g>
   <use id="58d35e70-2be0-4683-b328-4103e8cb050c" xlink:href="#def23" class="style1" x="738.5" y="823.9" />
   <g id="58d35e70-2be0-4683-b328-4103e8cb050cContainer" transform="translate(738.5,823.9)">
-    <text id="58d35e70-2be0-4683-b328-4103e8cb050cText" class="style6">	<tspan x="9" y="20">Neemt notie van het </tspan><tspan x="33" y="39">niet indienen </tspan></text>
+    <text id="58d35e70-2be0-4683-b328-4103e8cb050cText" class="style6">
+	<tspan x="9" y="20">Neemt notie van het </tspan><tspan x="33" y="39">niet indienen </tspan></text>
   </g>
   <use id="7316601b-48fa-4b81-954f-9c1b1aab2ca4" xlink:href="#def25" class="style7" x="210" y="358" />
   <g id="7316601b-48fa-4b81-954f-9c1b1aab2ca4Container" transform="translate(210,358)" />
@@ -392,23 +465,27 @@
   </g>
   <use id="4b709eec-461f-49ec-9389-754b4f670f93" xlink:href="#def27" class="style1" x="271.5" y="571.6" />
   <g id="4b709eec-461f-49ec-9389-754b4f670f93Container" transform="translate(271.5,571.6)">
-    <text id="4b709eec-461f-49ec-9389-754b4f670f93Text" class="style8">	<tspan x="19" y="14">Notie nemen </tspan><tspan x="38" y="29">van de </tspan><tspan x="30" y="48">geboorte</tspan></text>
+    <text id="4b709eec-461f-49ec-9389-754b4f670f93Text" class="style8">
+	<tspan x="19" y="14">Notie nemen </tspan><tspan x="38" y="29">van de </tspan><tspan x="30" y="48">geboorte</tspan></text>
   </g>
   <use id="781d2aa8-9fc1-452a-9558-2033385e6eac" xlink:href="#def29" class="style1" x="433" y="571.6" />
   <g id="781d2aa8-9fc1-452a-9558-2033385e6eacContainer" transform="translate(433,571.6)">
-    <text id="781d2aa8-9fc1-452a-9558-2033385e6eacText" class="style9">	<tspan x="13" y="14">Afwachten </tspan><tspan x="9" y="29">aanmelding </tspan><tspan x="24" y="48">ouders</tspan></text>
+    <text id="781d2aa8-9fc1-452a-9558-2033385e6eacText" class="style9">
+	<tspan x="13" y="14">Afwachten </tspan><tspan x="9" y="29">aanmelding </tspan><tspan x="24" y="48">ouders</tspan></text>
   </g>
   <use id="7cb6f86f-5e7e-4f47-9238-a7fb822ef6d1" xlink:href="#def25" class="style7" x="707" y="159" />
   <g id="7cb6f86f-5e7e-4f47-9238-a7fb822ef6d1Container" transform="translate(707,159)" />
   <use id="4e3867f3-6c5e-4a18-b3c0-ef87bab7db03" xlink:href="#def29" class="style1" x="766" y="718.6" />
   <g id="4e3867f3-6c5e-4a18-b3c0-ef87bab7db03Container" transform="translate(766,718.6)">
-    <text id="4e3867f3-6c5e-4a18-b3c0-ef87bab7db03Text" class="style10">	<tspan x="26" y="20">Politie </tspan><tspan x="11" y="39">verwittigen</tspan></text>
+    <text id="4e3867f3-6c5e-4a18-b3c0-ef87bab7db03Text" class="style10">
+	<tspan x="26" y="20">Politie </tspan><tspan x="11" y="39">verwittigen</tspan></text>
   </g>
   <use id="2ccf1a08-ce0b-410a-b2a8-11c9684a8944" xlink:href="#def25" class="style7" x="616" y="581.699951" />
   <g id="2ccf1a08-ce0b-410a-b2a8-11c9684a8944Container" transform="translate(616,581.699951)" />
   <use id="37479cd2-3a15-4342-a85e-db8c6ca8c009" xlink:href="#def29" class="style1" x="287.5" y="134" />
   <g id="37479cd2-3a15-4342-a85e-db8c6ca8c009Container" transform="translate(287.5,134)">
-    <text id="37479cd2-3a15-4342-a85e-db8c6ca8c009Text" class="style11">	<tspan x="10" y="20">Ontvangen </tspan><tspan x="22" y="39">model I</tspan></text>
+    <text id="37479cd2-3a15-4342-a85e-db8c6ca8c009Text" class="style11">
+	<tspan x="10" y="20">Ontvangen </tspan><tspan x="22" y="39">model I</tspan></text>
   </g>
   <use id="8157adb6-c641-4774-baca-7fd3ab5ba91a" xlink:href="#def35" class="style12" x="317.5" y="63" />
   <g id="8157adb6-c641-4774-baca-7fd3ab5ba91aContainer" transform="translate(317.5,63)" />
@@ -429,7 +506,8 @@
   </g>
   <use id="ec74180c-26ee-433b-9970-dd4ba23f7b16" xlink:href="#def37" class="style1" x="377" y="48" />
   <g id="ec74180c-26ee-433b-9970-dd4ba23f7b16Container" transform="translate(377,48)">
-    <text id="ec74180c-26ee-433b-9970-dd4ba23f7b16Text" class="style13">	<tspan x="26" y="20">Aanmelding bij loket </tspan><tspan x="14" y="39">burgelijke stand plannen</tspan></text>
+    <text id="ec74180c-26ee-433b-9970-dd4ba23f7b16Text" class="style13">
+	<tspan x="26" y="20">Aanmelding bij loket </tspan><tspan x="14" y="39">burgelijke stand plannen</tspan></text>
   </g>
   <use id="3aee7973-c1b7-475c-a819-32a4f5c780e4" xlink:href="#def25" class="style7" x="595" y="57" />
   <g id="3aee7973-c1b7-475c-a819-32a4f5c780e4Container" transform="translate(595,57)" />
@@ -445,21 +523,25 @@
   </g>
   <use id="164b20f3-9ded-47fe-8938-e00686dae814" xlink:href="#def29" class="style1" x="918" y="74" />
   <g id="164b20f3-9ded-47fe-8938-e00686dae814Container" transform="translate(918,74)">
-    <text id="164b20f3-9ded-47fe-8938-e00686dae814Text" class="style14">	<tspan x="16" y="14">1 partner </tspan><tspan x="21" y="29">doet de </tspan><tspan x="20" y="48">aangifte</tspan></text>
+    <text id="164b20f3-9ded-47fe-8938-e00686dae814Text" class="style14">
+	<tspan x="16" y="14">1 partner </tspan><tspan x="21" y="29">doet de </tspan><tspan x="20" y="48">aangifte</tspan></text>
   </g>
   <use id="f37c8b0d-00ed-458f-896c-8adcc3c7804b" xlink:href="#def43" class="style1" x="816" y="149" />
   <g id="f37c8b0d-00ed-458f-896c-8adcc3c7804bContainer" transform="translate(816,149)">
-    <text id="f37c8b0d-00ed-458f-896c-8adcc3c7804bText" class="style15">	<tspan x="32" y="14">Allebei de </tspan><tspan x="9" y="29">partners doen de </tspan><tspan x="37" y="48">aangifte</tspan></text>
+    <text id="f37c8b0d-00ed-458f-896c-8adcc3c7804bText" class="style15">
+	<tspan x="32" y="14">Allebei de </tspan><tspan x="9" y="29">partners doen de </tspan><tspan x="37" y="48">aangifte</tspan></text>
   </g>
   <use id="7e120f4a-376c-42f4-ac76-cd180c41e899" xlink:href="#def25" class="style7" x="876" y="581.699951" />
   <g id="7e120f4a-376c-42f4-ac76-cd180c41e899Container" transform="translate(876,581.699951)" />
   <use id="ee614371-2961-4683-b32c-df7cac9cf7fb" xlink:href="#def29" class="style1" x="984" y="370" />
   <g id="ee614371-2961-4683-b32c-df7cac9cf7fbContainer" transform="translate(984,370)">
-    <text id="ee614371-2961-4683-b32c-df7cac9cf7fbText" class="style16">	<tspan x="14" y="14">Aangeven </tspan><tspan x="17" y="29">geboorte </tspan><tspan x="11" y="48">via Model I </tspan></text>
+    <text id="ee614371-2961-4683-b32c-df7cac9cf7fbText" class="style16">
+	<tspan x="14" y="14">Aangeven </tspan><tspan x="17" y="29">geboorte </tspan><tspan x="11" y="48">via Model I </tspan></text>
   </g>
   <use id="48403942-f710-4148-82fc-57a0137b3275" xlink:href="#def29" class="style1" x="1112" y="571.699951" />
   <g id="48403942-f710-4148-82fc-57a0137b3275Container" transform="translate(1112,571.699951)">
-    <text id="48403942-f710-4148-82fc-57a0137b3275Text" class="style17">	<tspan x="19" y="20">Aangifte </tspan><tspan x="16" y="39">opnemen</tspan></text>
+    <text id="48403942-f710-4148-82fc-57a0137b3275Text" class="style17">
+	<tspan x="19" y="20">Aangifte </tspan><tspan x="16" y="39">opnemen</tspan></text>
   </g>
   <use id="f5934797-977b-4beb-b71d-a55457bd93b5" xlink:href="#def25" class="style7" x="1250" y="638" />
   <g id="f5934797-977b-4beb-b71d-a55457bd93b5Container" transform="translate(1250,638)" />
@@ -468,11 +550,13 @@
   </g>
   <use id="2f34d075-ef4e-4aed-ae36-d520570a242c" xlink:href="#def49" class="style1" x="1307" y="706" />
   <g id="2f34d075-ef4e-4aed-ae36-d520570a242cContainer" transform="translate(1307,706)">
-    <text id="2f34d075-ef4e-4aed-ae36-d520570a242cText" class="style18">	<tspan x="39" y="14">Trouwboekje of </tspan><tspan x="21" y="29">erkenningsdocument </tspan><tspan x="57" y="48">opvragen</tspan></text>
+    <text id="2f34d075-ef4e-4aed-ae36-d520570a242cText" class="style18">
+	<tspan x="39" y="14">Trouwboekje of </tspan><tspan x="21" y="29">erkenningsdocument </tspan><tspan x="57" y="48">opvragen</tspan></text>
   </g>
   <use id="046f20ba-8a68-4019-b034-135cc40d8da1" xlink:href="#def29" class="style1" x="1394" y="482" />
   <g id="046f20ba-8a68-4019-b034-135cc40d8da1Container" transform="translate(1394,482)">
-    <text id="046f20ba-8a68-4019-b034-135cc40d8da1Text" class="style19">	<tspan x="21" y="20">Model I </tspan><tspan x="16" y="39">opvragen</tspan></text>
+    <text id="046f20ba-8a68-4019-b034-135cc40d8da1Text" class="style19">
+	<tspan x="21" y="20">Model I </tspan><tspan x="16" y="39">opvragen</tspan></text>
   </g>
   <use id="383126a1-8f75-4fda-9cb7-fb75ad79e6b5" xlink:href="#def25" class="style7" x="1536" y="542" />
   <g id="383126a1-8f75-4fda-9cb7-fb75ad79e6b5Container" transform="translate(1536,542)" />
@@ -481,7 +565,8 @@
   </g>
   <use id="7f0c8140-1ee2-4f03-9b56-11229eeaa804" xlink:href="#def29" class="style1" x="1363" y="628" />
   <g id="7f0c8140-1ee2-4f03-9b56-11229eeaa804Container" transform="translate(1363,628)">
-    <text id="7f0c8140-1ee2-4f03-9b56-11229eeaa804Text" class="style20">	<tspan x="12" y="20">ID moeder </tspan><tspan x="16" y="39">opvragen</tspan></text>
+    <text id="7f0c8140-1ee2-4f03-9b56-11229eeaa804Text" class="style20">
+	<tspan x="12" y="20">ID moeder </tspan><tspan x="16" y="39">opvragen</tspan></text>
   </g>
   <use id="4525ddd7-5529-4f12-8439-38e21d1f6466" xlink:href="#def25" class="style7" x="1577.22229" y="586.699951" />
   <g id="4525ddd7-5529-4f12-8439-38e21d1f6466Container" transform="translate(1577.22229,586.699951)" />
@@ -498,83 +583,101 @@
   <g id="d3f370a4-5564-4b91-88ff-32ff9e73e439Container" transform="translate(1649,586.699951)" />
   <use id="dd97cd2f-7143-4d07-8e8d-cae1fabd698d" xlink:href="#def29" class="style1" x="1706.11121" y="510.033356" />
   <g id="dd97cd2f-7143-4d07-8e8d-cae1fabd698dContainer" transform="translate(1706.11121,510.033356)">
-    <text id="dd97cd2f-7143-4d07-8e8d-cae1fabd698dText" class="style21">	<tspan x="13" y="20">ID partner </tspan><tspan x="16" y="39">opvragen</tspan></text>
+    <text id="dd97cd2f-7143-4d07-8e8d-cae1fabd698dText" class="style21">
+	<tspan x="13" y="20">ID partner </tspan><tspan x="16" y="39">opvragen</tspan></text>
   </g>
   <use id="1077fab4-3b33-43a4-9d78-951b0c6b556e" xlink:href="#def25" class="style7" x="1968" y="586.699951" />
   <g id="1077fab4-3b33-43a4-9d78-951b0c6b556eContainer" transform="translate(1968,586.699951)" />
   <use id="e0d279f7-2592-48b1-bbee-c4f29ee5493f" xlink:href="#def59" class="style1" x="1815" y="576.699951" />
   <g id="e0d279f7-2592-48b1-bbee-c4f29ee5493fContainer" transform="translate(1815,576.699951)">
-    <text id="e0d279f7-2592-48b1-bbee-c4f29ee5493fText" class="style22">	<tspan x="18" y="14">Controleren </tspan><tspan x="34" y="29">van de </tspan><tspan x="16" y="48">documenten</tspan></text>
+    <text id="e0d279f7-2592-48b1-bbee-c4f29ee5493fText" class="style22">
+	<tspan x="18" y="14">Controleren </tspan><tspan x="34" y="29">van de </tspan><tspan x="16" y="48">documenten</tspan></text>
   </g>
   <use id="130a1d16-67ed-4179-9758-2f5c8d82a544" xlink:href="#def29" class="style1" x="2036" y="484.699982" />
   <g id="130a1d16-67ed-4179-9758-2f5c8d82a544Container" transform="translate(2036,484.699982)">
-    <text id="130a1d16-67ed-4179-9758-2f5c8d82a544Text" class="style23">	<tspan x="8" y="20">Voortzetten </tspan><tspan x="20" y="39">aangifte</tspan></text>
+    <text id="130a1d16-67ed-4179-9758-2f5c8d82a544Text" class="style23">
+	<tspan x="8" y="20">Voortzetten </tspan><tspan x="20" y="39">aangifte</tspan></text>
   </g>
   <use id="5ae369c5-4036-4003-88c0-3e439fdbe465" xlink:href="#def29" class="style1" x="2137" y="576.699951" />
   <g id="5ae369c5-4036-4003-88c0-3e439fdbe465Container" transform="translate(2137,576.699951)">
-    <text id="5ae369c5-4036-4003-88c0-3e439fdbe465Text" class="style24">	<tspan x="22" y="14">Nieuwe </tspan><tspan x="19" y="29">afspraak </tspan><tspan x="12" y="48">vastleggen</tspan></text>
+    <text id="5ae369c5-4036-4003-88c0-3e439fdbe465Text" class="style24">
+	<tspan x="22" y="14">Nieuwe </tspan><tspan x="19" y="29">afspraak </tspan><tspan x="12" y="48">vastleggen</tspan></text>
   </g>
   <use id="87cb21ef-b83a-4b06-ba83-2d1c93a2de42" xlink:href="#def25" class="style7" x="2246" y="494.699982" />
   <g id="87cb21ef-b83a-4b06-ba83-2d1c93a2de42Container" transform="translate(2246,494.699982)" />
   <use id="80c06465-852d-4f45-a233-b03f90f3adfe" xlink:href="#def27" class="style1" x="2363" y="484.699951" />
   <g id="80c06465-852d-4f45-a233-b03f90f3adfeContainer" transform="translate(2363,484.699951)">
-    <text id="80c06465-852d-4f45-a233-b03f90f3adfeText" class="style25">	<tspan x="16" y="20">Geboorteakte </tspan><tspan x="30" y="39">opmaken</tspan></text>
+    <text id="80c06465-852d-4f45-a233-b03f90f3adfeText" class="style25">
+	<tspan x="16" y="20">Geboorteakte </tspan><tspan x="30" y="39">opmaken</tspan></text>
   </g>
   <use id="f9f945ce-dd28-4808-95c5-58b0b2a624b6" xlink:href="#def65" class="style1" x="2353.5" y="119" />
   <g id="f9f945ce-dd28-4808-95c5-58b0b2a624b6Container" transform="translate(2353.5,119)">
-    <text id="f9f945ce-dd28-4808-95c5-58b0b2a624b6Text" class="style26">	<tspan x="24" y="20">Ondertekenen </tspan><tspan x="27" y="39">geboorteakte</tspan></text>
+    <text id="f9f945ce-dd28-4808-95c5-58b0b2a624b6Text" class="style26">
+	<tspan x="24" y="20">Ondertekenen </tspan><tspan x="27" y="39">geboorteakte</tspan></text>
   </g>
   <use id="45f95ee6-35fb-47dd-9396-1f83032e3a89" xlink:href="#def29" class="style1" x="2533.889" y="484.699982" />
   <g id="45f95ee6-35fb-47dd-9396-1f83032e3a89Container" transform="translate(2533.889,484.699982)">
-    <text id="45f95ee6-35fb-47dd-9396-1f83032e3a89Text" class="style27">	<tspan x="12" y="20">Model 1 D </tspan><tspan x="21" y="39">invullen</tspan></text>
+    <text id="45f95ee6-35fb-47dd-9396-1f83032e3a89Text" class="style27">
+	<tspan x="12" y="20">Model 1 D </tspan><tspan x="21" y="39">invullen</tspan></text>
   </g>
   <use id="8007fe06-d647-4a0e-9198-78c212a4420b" xlink:href="#def25" class="style7" x="2668" y="493.699951" />
   <g id="8007fe06-d647-4a0e-9198-78c212a4420bContainer" transform="translate(2668,493.699951)" />
   <use id="2de55679-6b09-4584-80f5-233800705d55" xlink:href="#def69" class="style1" x="2717" y="593.699951" />
   <g id="2de55679-6b09-4584-80f5-233800705d55Container" transform="translate(2717,593.699951)">
-    <text id="2de55679-6b09-4584-80f5-233800705d55Text" class="style28">	<tspan x="32" y="14">Geboorte </tspan><tspan x="21" y="29">inschrijven in </tspan><tspan x="23" y="48">trouwboekje</tspan></text>
+    <text id="2de55679-6b09-4584-80f5-233800705d55Text" class="style28">
+	<tspan x="32" y="14">Geboorte </tspan><tspan x="21" y="29">inschrijven in </tspan><tspan x="23" y="48">trouwboekje</tspan></text>
   </g>
   <use id="70770f08-b43b-4544-99b0-ad65c4ffa978" xlink:href="#def69" class="style1" x="2810" y="483.699982" />
   <g id="70770f08-b43b-4544-99b0-ad65c4ffa978Container" transform="translate(2810,483.699982)">
-    <text id="70770f08-b43b-4544-99b0-ad65c4ffa978Text" class="style29">	<tspan x="25" y="14">Bijkomende </tspan><tspan x="22" y="29">documenten </tspan><tspan x="29" y="48">meegeven</tspan></text>
+    <text id="70770f08-b43b-4544-99b0-ad65c4ffa978Text" class="style29">
+	<tspan x="25" y="14">Bijkomende </tspan><tspan x="22" y="29">documenten </tspan><tspan x="29" y="48">meegeven</tspan></text>
   </g>
   <use id="e4809ef0-0593-465c-be01-aedb8a4bacf5" xlink:href="#def72" class="style1" x="2987" y="484.699982" />
   <g id="e4809ef0-0593-465c-be01-aedb8a4bacf5Container" transform="translate(2987,484.699982)">
-    <text id="e4809ef0-0593-465c-be01-aedb8a4bacf5Text" class="style30">	<tspan x="28" y="20">Contacteren </tspan><tspan x="16" y="39">dienst Bevolking</tspan></text>
+    <text id="e4809ef0-0593-465c-be01-aedb8a4bacf5Text" class="style30">
+	<tspan x="28" y="20">Contacteren </tspan><tspan x="16" y="39">dienst Bevolking</tspan></text>
   </g>
   <use id="08d9d269-4e38-4047-bb2b-ab8e9e640b1d" xlink:href="#def69" class="style1" x="2953" y="1082.6" />
   <g id="08d9d269-4e38-4047-bb2b-ab8e9e640b1dContainer" transform="translate(2953,1082.6)">
-    <text id="08d9d269-4e38-4047-bb2b-ab8e9e640b1dText" class="style31">	<tspan x="9" y="20">Inschrijven in het </tspan><tspan x="26" y="39">rijksregister</tspan></text>
+    <text id="08d9d269-4e38-4047-bb2b-ab8e9e640b1dText" class="style31">
+	<tspan x="9" y="20">Inschrijven in het </tspan><tspan x="26" y="39">rijksregister</tspan></text>
   </g>
   <use id="546bae4f-f3c6-448e-ac4c-24b90a04bad3" xlink:href="#def75" class="style1" x="2724" y="951" />
   <g id="546bae4f-f3c6-448e-ac4c-24b90a04bad3Container" transform="translate(2724,951)">
-    <text id="546bae4f-f3c6-448e-ac4c-24b90a04bad3Text" class="style32">	<tspan x="11" y="20">Voorlopig inschrijven in </tspan><tspan x="27" y="39">bevolkingsregister</tspan></text>
+    <text id="546bae4f-f3c6-448e-ac4c-24b90a04bad3Text" class="style32">
+	<tspan x="11" y="20">Voorlopig inschrijven in </tspan><tspan x="27" y="39">bevolkingsregister</tspan></text>
   </g>
   <use id="b139b5aa-58ca-4dd1-a42c-cf32e75b2612" xlink:href="#def77" class="style1" x="2930" y="951" />
   <g id="b139b5aa-58ca-4dd1-a42c-cf32e75b2612Container" transform="translate(2930,951)">
-    <text id="b139b5aa-58ca-4dd1-a42c-cf32e75b2612Text" class="style33">	<tspan x="21" y="20">Rijksregisternummer </tspan><tspan x="52" y="39">aanvragen</tspan></text>
+    <text id="b139b5aa-58ca-4dd1-a42c-cf32e75b2612Text" class="style33">
+	<tspan x="21" y="20">Rijksregisternummer </tspan><tspan x="52" y="39">aanvragen</tspan></text>
   </g>
   <use id="d70999b1-b7ce-4e43-af18-1c370dc7cf79" xlink:href="#def29" class="style1" x="3180" y="952" />
   <g id="d70999b1-b7ce-4e43-af18-1c370dc7cf79Container" transform="translate(3180,952)">
-    <text id="d70999b1-b7ce-4e43-af18-1c370dc7cf79Text" class="style34">	<tspan x="26" y="20">Bewijs </tspan><tspan x="13" y="39">verzenden</tspan></text>
+    <text id="d70999b1-b7ce-4e43-af18-1c370dc7cf79Text" class="style34">
+	<tspan x="26" y="20">Bewijs </tspan><tspan x="13" y="39">verzenden</tspan></text>
   </g>
   <use id="37c0ef94-44a1-4485-a96f-3dd09c7fbd29" xlink:href="#def80" class="style1" x="3161.5" y="122" />
   <g id="37c0ef94-44a1-4485-a96f-3dd09c7fbd29Container" transform="translate(3161.5,122)">
-    <text id="37c0ef94-44a1-4485-a96f-3dd09c7fbd29Text" class="style35">	<tspan x="15" y="20">Gaan naar loket </tspan><tspan x="13" y="39">Burgerlijke stand</tspan></text>
+    <text id="37c0ef94-44a1-4485-a96f-3dd09c7fbd29Text" class="style35">
+	<tspan x="15" y="20">Gaan naar loket </tspan><tspan x="13" y="39">Burgerlijke stand</tspan></text>
   </g>
   <use id="0fa6202f-4cca-4169-821d-2bb97e94faec" xlink:href="#def82" class="style1" x="3325" y="121" />
   <g id="0fa6202f-4cca-4169-821d-2bb97e94faecContainer" transform="translate(3325,121)">
-    <text id="0fa6202f-4cca-4169-821d-2bb97e94faecText" class="style36">	<tspan x="19" y="20">ID-papieren in </tspan><tspan x="9" y="39">ontvangst nemen</tspan></text>
+    <text id="0fa6202f-4cca-4169-821d-2bb97e94faecText" class="style36">
+	<tspan x="19" y="20">ID-papieren in </tspan><tspan x="9" y="39">ontvangst nemen</tspan></text>
   </g>
   <use id="d1be2f08-a11d-4bc8-8035-9d8a55d38444" xlink:href="#def84" class="style37" x="3489.44458" y="136" />
   <g id="d1be2f08-a11d-4bc8-8035-9d8a55d38444Container" transform="translate(3489.44458,136)" />
   <use id="b9c3a2b4-cc9a-4fb7-b474-25aba953fbc5" xlink:href="#def86" class="style1" x="3150" y="644.699951" />
   <g id="b9c3a2b4-cc9a-4fb7-b474-25aba953fbc5Container" transform="translate(3150,644.699951)">
-    <text id="b9c3a2b4-cc9a-4fb7-b474-25aba953fbc5Text" class="style38">	<tspan x="15" y="20">Ouders contacteren </tspan><tspan x="15" y="39">afhalen ID-papieren </tspan></text>
+    <text id="b9c3a2b4-cc9a-4fb7-b474-25aba953fbc5Text" class="style38">
+	<tspan x="15" y="20">Ouders contacteren </tspan><tspan x="15" y="39">afhalen ID-papieren </tspan></text>
   </g>
   <use id="23157bc1-313b-437f-ad44-caae8c61b49a" xlink:href="#def29" class="style1" x="3343" y="578" />
   <g id="23157bc1-313b-437f-ad44-caae8c61b49aContainer" transform="translate(3343,578)">
-    <text id="23157bc1-313b-437f-ad44-caae8c61b49aText" class="style39">	<tspan x="8" y="20">Afgeven ID-</tspan><tspan x="18" y="39">papieren</tspan></text>
+    <text id="23157bc1-313b-437f-ad44-caae8c61b49aText" class="style39">
+	<tspan x="8" y="20">Afgeven ID-</tspan><tspan x="18" y="39">papieren</tspan></text>
   </g>
   <polyline id="142915a3-68a6-40fc-833e-32f1b2156436" style="stroke:#000000;fill:none;stroke-opacity:1;stroke-width:1;" points="418,0 418,35.09998 417.9999,41.09991 417.9999,44.41364 415.3137,47.09991 412,47.09991 12,47.09998 6,47.09991 2.686279,47.09998 0,44.41364 0,41.09998 0,10 " marker-end="url(#defMarker)" transform="translate(478,621)" />
   <text x="687" y="666.1" style="font-family:'Segoe UI';font-size:8.25pt;fill:Black;">
@@ -773,91 +876,120 @@
   <text x="682.25" y="126" style="font-family:'Segoe UI';font-size:8.25pt;fill:Black;">
   </text>
   <g id="Text_cee06a9f-1a1c-4e98-9cd8-18a9cf579920Container" transform="translate(2058,583.699951)">
-    <text id="Text_cee06a9f-1a1c-4e98-9cd8-18a9cf579920Text" class="style41">	<tspan x="7" y="14">Nee</tspan></text>
+    <text id="Text_cee06a9f-1a1c-4e98-9cd8-18a9cf579920Text" class="style41">
+	<tspan x="7" y="14">Nee</tspan></text>
   </g>
   <g id="Text_7ce39d3a-3e40-40f8-8de3-f4784bf93330Container" transform="translate(2324.5,514.699951)">
-    <text id="Text_7ce39d3a-3e40-40f8-8de3-f4784bf93330Text" class="style42">	<tspan x="7" y="14">Ja</tspan></text>
+    <text id="Text_7ce39d3a-3e40-40f8-8de3-f4784bf93330Text" class="style42">
+	<tspan x="7" y="14">Ja</tspan></text>
   </g>
   <g id="Text_015c813f-c942-46bd-9463-7ecbd0a089ecContainer" transform="translate(2712,489)">
-    <text id="Text_015c813f-c942-46bd-9463-7ecbd0a089ecText" class="style43">	<tspan x="7" y="14">Nee</tspan></text>
+    <text id="Text_015c813f-c942-46bd-9463-7ecbd0a089ecText" class="style43">
+	<tspan x="7" y="14">Nee</tspan></text>
   </g>
   <g id="Text_61b85ea2-7896-4659-8dd3-f799af38c851Container" transform="translate(2719,683)">
-    <text id="Text_61b85ea2-7896-4659-8dd3-f799af38c851Text" class="style44">	<tspan x="7" y="14">Ja</tspan></text>
+    <text id="Text_61b85ea2-7896-4659-8dd3-f799af38c851Text" class="style44">
+	<tspan x="7" y="14">Ja</tspan></text>
   </g>
   <g id="Text_bd45421f-580d-4966-851e-016709fd142bContainer" transform="translate(1991,490.699982)">
-    <text id="Text_bd45421f-580d-4966-851e-016709fd142bText" class="style45">	<tspan x="7" y="14">Ja</tspan></text>
+    <text id="Text_bd45421f-580d-4966-851e-016709fd142bText" class="style45">
+	<tspan x="7" y="14">Ja</tspan></text>
   </g>
   <g id="Text_b682ce78-55d9-49fb-9050-b0cf03b45c05Container" transform="translate(1668,515.699951)">
-    <text id="Text_b682ce78-55d9-49fb-9050-b0cf03b45c05Text" class="style46">	<tspan x="7" y="14">Ja</tspan></text>
+    <text id="Text_b682ce78-55d9-49fb-9050-b0cf03b45c05Text" class="style46">
+	<tspan x="7" y="14">Ja</tspan></text>
   </g>
   <g id="Text_a397106a-20df-4440-b10c-173114b2aab9Container" transform="translate(1752,606.699951)">
-    <text id="Text_a397106a-20df-4440-b10c-173114b2aab9Text" class="style47">	<tspan x="7" y="14">Nee</tspan></text>
+    <text id="Text_a397106a-20df-4440-b10c-173114b2aab9Text" class="style47">
+	<tspan x="7" y="14">Nee</tspan></text>
   </g>
   <g id="Text_1077fab4-3b33-43a4-9d78-951b0c6b556eContainer" transform="translate(1935,633)">
-    <text id="Text_1077fab4-3b33-43a4-9d78-951b0c6b556eText" class="style48">	<tspan x="42" y="14">Alle </tspan><tspan x="14" y="33">documenten </tspan><tspan x="14" y="51">voor handen </tspan><tspan x="9" y="69">en consistent?</tspan></text>
+    <text id="Text_1077fab4-3b33-43a4-9d78-951b0c6b556eText" class="style48">
+	<tspan x="42" y="14">Alle </tspan><tspan x="14" y="33">documenten </tspan><tspan x="14" y="51">voor handen </tspan><tspan x="9" y="69">en consistent?</tspan></text>
   </g>
   <g id="Text_9487c70e-71cb-4adc-b81c-fae5e58f7e48Container" transform="translate(136,399)">
-    <text id="Text_9487c70e-71cb-4adc-b81c-fae5e58f7e48Text" class="style49">	<tspan x="9" y="14">Kind wordt </tspan><tspan x="17" y="33">geboren</tspan></text>
+    <text id="Text_9487c70e-71cb-4adc-b81c-fae5e58f7e48Text" class="style49">
+	<tspan x="9" y="14">Kind wordt </tspan><tspan x="17" y="33">geboren</tspan></text>
   </g>
   <g id="Text_8007fe06-d647-4a0e-9198-78c212a4420bContainer" transform="translate(2649,469)">
-    <text id="Text_8007fe06-d647-4a0e-9198-78c212a4420bText" class="style50">	<tspan x="9" y="14">Gehuwd?</tspan></text>
+    <text id="Text_8007fe06-d647-4a0e-9198-78c212a4420bText" class="style50">
+	<tspan x="9" y="14">Gehuwd?</tspan></text>
   </g>
   <g id="Text_d3f370a4-5564-4b91-88ff-32ff9e73e439Container" transform="translate(1628,633)">
-    <text id="Text_d3f370a4-5564-4b91-88ff-32ff9e73e439Text" class="style51">	<tspan x="18" y="14">Partner </tspan><tspan x="9" y="33">aanwezig?</tspan></text>
+    <text id="Text_d3f370a4-5564-4b91-88ff-32ff9e73e439Text" class="style51">
+	<tspan x="18" y="14">Partner </tspan><tspan x="9" y="33">aanwezig?</tspan></text>
   </g>
   <g id="Text_87cb21ef-b83a-4b06-ba83-2d1c93a2de42Container" transform="translate(2225,456)">
-    <text id="Text_87cb21ef-b83a-4b06-ba83-2d1c93a2de42Text" class="style52">	<tspan x="12" y="14">Positieve </tspan><tspan x="9" y="33">evaluatie?</tspan></text>
+    <text id="Text_87cb21ef-b83a-4b06-ba83-2d1c93a2de42Text" class="style52">
+	<tspan x="12" y="14">Positieve </tspan><tspan x="9" y="33">evaluatie?</tspan></text>
   </g>
   <g id="Text_89977cbb-5aa4-44ba-9a15-42a34436fc3cContainer" transform="translate(1334,485.5)">
-    <text id="Text_89977cbb-5aa4-44ba-9a15-42a34436fc3cText" class="style53">	<tspan x="7" y="14">nee</tspan></text>
+    <text id="Text_89977cbb-5aa4-44ba-9a15-42a34436fc3cText" class="style53">
+	<tspan x="7" y="14">nee</tspan></text>
   </g>
   <g id="Text_7e120f4a-376c-42f4-ac76-cd180c41e899Container" transform="translate(898,557.1)">
-    <text id="Text_7e120f4a-376c-42f4-ac76-cd180c41e899Text" class="style54">	<tspan x="11" y="14">Ouders melden </tspan><tspan x="30" y="33">zich aan?</tspan></text>
+    <text id="Text_7e120f4a-376c-42f4-ac76-cd180c41e899Text" class="style54">
+	<tspan x="11" y="14">Ouders melden </tspan><tspan x="30" y="33">zich aan?</tspan></text>
   </g>
   <g id="Text_b0667b40-0a0d-4b85-9d05-806aee757027Container" transform="translate(681.5,478.25)">
-    <text id="Text_b0667b40-0a0d-4b85-9d05-806aee757027Text" class="style55">	<tspan x="7" y="14">eerste werkdag na 15e </tspan><tspan x="7" y="33">dag die een </tspan><tspan x="7" y="51">za/zo/feestdag is</tspan></text>
+    <text id="Text_b0667b40-0a0d-4b85-9d05-806aee757027Text" class="style55">
+	<tspan x="7" y="14">eerste werkdag na 15e </tspan><tspan x="7" y="33">dag die een </tspan><tspan x="7" y="51">za/zo/feestdag is</tspan></text>
   </g>
   <g id="Text_b7a254db-5ca1-4e25-9083-c02ba65df532Container" transform="translate(730,64)">
-    <text id="Text_b7a254db-5ca1-4e25-9083-c02ba65df532Text" class="style56">	<tspan x="7" y="14">Ja</tspan></text>
+    <text id="Text_b7a254db-5ca1-4e25-9083-c02ba65df532Text" class="style56">
+	<tspan x="7" y="14">Ja</tspan></text>
   </g>
   <g id="Text_98f44152-ffe8-4e8d-85ed-e068ab2b92a7Container" transform="translate(645,714)">
-    <text id="Text_98f44152-ffe8-4e8d-85ed-e068ab2b92a7Text" class="style57">	<tspan x="7" y="14">na 15 </tspan><tspan x="7" y="33">dagen</tspan></text>
+    <text id="Text_98f44152-ffe8-4e8d-85ed-e068ab2b92a7Text" class="style57">
+	<tspan x="7" y="14">na 15 </tspan><tspan x="7" y="33">dagen</tspan></text>
   </g>
   <g id="Text_7cb6f86f-5e7e-4f47-9238-a7fb822ef6d1Container" transform="translate(684,205)">
-    <text id="Text_7cb6f86f-5e7e-4f47-9238-a7fb822ef6d1Text" class="style58">	<tspan x="10" y="14">Erkennings</tspan><tspan x="9" y="33">document?</tspan></text>
+    <text id="Text_7cb6f86f-5e7e-4f47-9238-a7fb822ef6d1Text" class="style58">
+	<tspan x="10" y="14">Erkennings</tspan><tspan x="9" y="33">document?</tspan></text>
   </g>
   <g id="Text_153e87b1-bd98-4e9f-bb82-9daac7dae917Container" transform="translate(1043.5,603)">
-    <text id="Text_153e87b1-bd98-4e9f-bb82-9daac7dae917Text" class="style59">	<tspan x="7" y="14">ja</tspan></text>
+    <text id="Text_153e87b1-bd98-4e9f-bb82-9daac7dae917Text" class="style59">
+	<tspan x="7" y="14">ja</tspan></text>
   </g>
   <g id="Text_9cde133e-e1c9-4dd8-be4a-4f1e96708f96Container" transform="translate(475,665)">
-    <text id="Text_9cde133e-e1c9-4dd8-be4a-4f1e96708f96Text" class="style60">	<tspan x="7" y="14">nee</tspan></text>
+    <text id="Text_9cde133e-e1c9-4dd8-be4a-4f1e96708f96Text" class="style60">
+	<tspan x="7" y="14">nee</tspan></text>
   </g>
   <g id="Text_81d1c37b-4733-4926-b5fb-f6b1780e0772Container" transform="translate(1187,509)">
-    <text id="Text_81d1c37b-4733-4926-b5fb-f6b1780e0772Text" class="style61">	<tspan x="27" y="14">Model 1 reeds </tspan><tspan x="35" y="33">ontvangen?</tspan></text>
+    <text id="Text_81d1c37b-4733-4926-b5fb-f6b1780e0772Text" class="style61">
+	<tspan x="27" y="14">Model 1 reeds </tspan><tspan x="35" y="33">ontvangen?</tspan></text>
   </g>
   <g id="Text_069d630e-621c-436f-936f-27d23a3bb77eContainer" transform="translate(749,154)">
-    <text id="Text_069d630e-621c-436f-936f-27d23a3bb77eText" class="style62">	<tspan x="7" y="14">Nee</tspan></text>
+    <text id="Text_069d630e-621c-436f-936f-27d23a3bb77eText" class="style62">
+	<tspan x="7" y="14">Nee</tspan></text>
   </g>
   <g id="Text_2ccf1a08-ce0b-410a-b2a8-11c9684a8944Container" transform="translate(532,537)">
-    <text id="Text_2ccf1a08-ce0b-410a-b2a8-11c9684a8944Text" class="style63">	<tspan x="13" y="14">welke dag na </tspan><tspan x="9" y="33">de geboorte is </tspan><tspan x="40" y="51">het?</tspan></text>
+    <text id="Text_2ccf1a08-ce0b-410a-b2a8-11c9684a8944Text" class="style63">
+	<tspan x="13" y="14">welke dag na </tspan><tspan x="9" y="33">de geboorte is </tspan><tspan x="40" y="51">het?</tspan></text>
   </g>
   <g id="Text_a45e0dfe-4056-4719-aa8b-cb70325670baContainer" transform="translate(1496,560)">
-    <text id="Text_a45e0dfe-4056-4719-aa8b-cb70325670baText" class="style64">	<tspan x="7" y="14">ja</tspan></text>
+    <text id="Text_a45e0dfe-4056-4719-aa8b-cb70325670baText" class="style64">
+	<tspan x="7" y="14">ja</tspan></text>
   </g>
   <g id="Text_3aee7973-c1b7-475c-a819-32a4f5c780e4Container" transform="translate(578,103)">
-    <text id="Text_3aee7973-c1b7-475c-a819-32a4f5c780e4Text" class="style65">	<tspan x="9" y="14">Gehuwd?</tspan></text>
+    <text id="Text_3aee7973-c1b7-475c-a819-32a4f5c780e4Text" class="style65">
+	<tspan x="9" y="14">Gehuwd?</tspan></text>
   </g>
   <g id="Text_0a0042e9-14cb-48c8-8048-6e1c7f8a7498Container" transform="translate(682.5,598)">
-    <text id="Text_0a0042e9-14cb-48c8-8048-6e1c7f8a7498Text" class="style66">	<tspan x="7" y="14">binnen de </tspan><tspan x="7" y="33">15 dagen</tspan></text>
+    <text id="Text_0a0042e9-14cb-48c8-8048-6e1c7f8a7498Text" class="style66">
+	<tspan x="7" y="14">binnen de </tspan><tspan x="7" y="33">15 dagen</tspan></text>
   </g>
   <g id="Text_b93e53c0-dccb-4e40-8a78-875ee292347fContainer" transform="translate(613,21.5)">
-    <text id="Text_b93e53c0-dccb-4e40-8a78-875ee292347fText" class="style67">	<tspan x="7" y="14">Ja</tspan></text>
+    <text id="Text_b93e53c0-dccb-4e40-8a78-875ee292347fText" class="style67">
+	<tspan x="7" y="14">Ja</tspan></text>
   </g>
   <g id="Text_13f52890-4c8a-4fd6-a58d-3fcd5dd23d32Container" transform="translate(640,54)">
-    <text id="Text_13f52890-4c8a-4fd6-a58d-3fcd5dd23d32Text" class="style68">	<tspan x="7" y="14">Nee</tspan></text>
+    <text id="Text_13f52890-4c8a-4fd6-a58d-3fcd5dd23d32Text" class="style68">
+	<tspan x="7" y="14">Nee</tspan></text>
   </g>
   <g id="Text_d00c5eed-17c1-429f-b0da-d2c2a87e3a7dContainer" transform="translate(2266,570)">
-    <text id="Text_d00c5eed-17c1-429f-b0da-d2c2a87e3a7dText" class="style69">	<tspan x="7" y="14">Nee</tspan></text>
+    <text id="Text_d00c5eed-17c1-429f-b0da-d2c2a87e3a7dText" class="style69">
+	<tspan x="7" y="14">Nee</tspan></text>
   </g>
   <image x="3461" y="1210" width="90" height="43" xlink:href="data:image/png;base64,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" />
 </svg>
